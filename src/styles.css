@@ -1,1 +1,39 @@
 /* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+.mat-drawer{
+    background-color: yellow;
+}
+
+
+.mat-drawer-backdrop.mat-drawer-shown{
+    background-color:orange;
+}
+.mat-elevation-z5{
+    position:relative;
+    z-index: 4;
+}
+
+.mat-typography p {
+    margin: 0 0 0px;
+}
+.mat-sidenav a:hover{
+    color:red;
+}
+
+.mat-drawer-container{
+    background-color:white;
+}
+element.style {
+    background-color: aliceblue;
+}
+
+.footers{
+    background-color: #3f51b5;
+    height:10vh;
+  }
+#footericon{
+    margin-left: 50%;
+   
+}

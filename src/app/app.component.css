@@ -1,0 +1,11 @@
+
+.example-spacer {
+    flex: 1 1 auto;
+  }
+  .signin{
+    background-color:blue;
+}
+.signup{
+    background-color:skyblue;
+    
+}
